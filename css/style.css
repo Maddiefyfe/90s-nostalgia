@@ -37,3 +37,10 @@ html {
     padding-right: 0;
     padding-left: 0;
   }
+
+  header {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-left: 0;
+    padding-right: 0;
+  }
