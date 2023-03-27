@@ -121,3 +121,9 @@ html {
     padding-left: 0;
     padding-right: 0;
   }
+
+  .icon img {
+    width: 260px;
+    float: left;
+    margin-right: 2em;
+  }
