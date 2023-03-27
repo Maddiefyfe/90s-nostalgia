@@ -16,3 +16,7 @@ html {
   *, *::before, *::after {
     boxing-sizing: border-box;
   }
+
+  img {
+    width: 100%;
+  }
