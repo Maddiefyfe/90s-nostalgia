@@ -68,8 +68,20 @@ html {
     text-decoration: none;
   }
 
-  a:hover {
+  a:hover, a:focus {
     background-color: white;
     color: purple;
     border: solid 2px purple;
+  }
+
+  .hero {
+    width: 100%;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-left: 0;
+    padding-right: 0;
+    background-image: url(/images/greatest-90s-fashion-trends.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
   }
