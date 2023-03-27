@@ -57,6 +57,7 @@ html {
   }
 
   a:link, a:visited {
+    display: inline-block;
     padding-top: .5em;
     padding-bottom: .5em;
     padding-left: .75em;
@@ -99,4 +100,10 @@ html {
 
   .trends {
     background-color: purple;
+  }
+
+  figure {
+    width: 22%;
+    display: inline-block;
+    align-items: center;
   }
