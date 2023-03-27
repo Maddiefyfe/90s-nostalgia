@@ -107,3 +107,9 @@ html {
     display: inline-block;
     align-items: center;
   }
+
+  figcaption {
+    color: white;
+    font-style: italic;
+    text-align: center;
+  }
