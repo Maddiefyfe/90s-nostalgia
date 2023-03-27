@@ -131,3 +131,7 @@ html {
   .fashion-icon p:last-child {
     float: none;
   }
+
+  .featured-articles {
+    display: none;
+  }
