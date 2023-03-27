@@ -54,5 +54,16 @@ html {
 
   li {
     display: inline;
-    text-align: center;
+  }
+
+  a:link {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: .75em;
+    padding-right: .75em;
+    border-radius: 8px;
+    background-color: purple;
+    color: white;
+    border: solid 2px white;
+    text-decoration: none;
   }
