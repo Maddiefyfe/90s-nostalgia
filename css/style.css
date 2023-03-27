@@ -127,3 +127,7 @@ html {
     float: left;
     margin-right: 2em;
   }
+
+  .fashion-icon p:last-child {
+    float: none;
+  }
