@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    margin: 0 auto;
+    margin: 0;
 }
 
 html {
@@ -139,4 +139,12 @@ html {
   footer {
     background-color: black;
     color: white;
+  }
+
+  p:last-of-type {
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 0;
+    padding-right: 0;
   }
